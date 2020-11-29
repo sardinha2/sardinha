@@ -15,11 +15,11 @@
 * 💪 CVEs scan
 * ☑️ Works with powerful APIs
 * 🔗 Works too with Google Dorks
-* 🔎 Checks your password in Word List
+* 🔎 Checks your password in Word Lists
 * 👀 Checks the last pastes in Pastebin
 * 📄 Output to txt, docx, pdf, xlsx, json, html, xml, db
 * 🔒 Output to encrypted files
-* 📦 Can send result files to multiples Bucket S3
+* 📦 Can send result files to multiples Buckets S3
 * 📁 Upload the result files to Google Drive
 * 📡 Cab send result files by SSH (work with EC2)
 * 📢 Notify by Telegram and e-mail
@@ -27,10 +27,6 @@
 * 🕒 Works with scheduled scans
 * 🔁 Possible to execute loop scans
 ---
-
-### :package: `pip3 install h8mail`
-
------
 
 
 ####  APIs
