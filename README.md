@@ -10,18 +10,18 @@
 **Oblivion** is a tool focused in real time monitoring of new data leaks, notifying if the credentials of the user has been leak out. It's possible too verify if any credential of user has been leak out before.
 
 
-## Features
+## :cyclone: Oblivion Features
 
 * :mag_right: Can be used with no cost
 * :mag_right: Checks your password in word list
-* :earth_africa: Works with Google Dorks
+* :earth_africa: Works too with Google Dorks
 * :dizzy: Checks the last pastes in Pastebin
 * :package: Works with powerful APIs
 * :white_check_mark: Output to 
 * :memo: Output to txt, docx, pdf, xlsx, json, html, xml, db
-* :muscle: Compatible with the "Breach Compilation" torrent scripts
-* :house: Search cleartext and compressed .gz files locally using multiprocessing
-  * :cyclone: Compatible with "Collection#1"
+* :muscle: CVEs scan
+* :house: Can send results files to Bucket S3
+* :cyclone: Send results file by SSH
 * :fire: Get related emails
 * :dragon_face: Chase related emails by adding them to the ongoing search
 * :crown: Supports premium lookup services for advanced users
