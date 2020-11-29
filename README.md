@@ -13,7 +13,7 @@
 ## :cyclone: Oblivion Features
 
 * :mag_right: Can be used with no cost
-* :mag_right: Checks your password in word list
+* :mag_right: Checks your password in Word List
 * :earth_africa: Works too with Google Dorks
 * :dizzy: Checks the last pastes in Pastebin
 * :package: Works with powerful APIs
@@ -21,8 +21,8 @@
 * :memo: Output to txt, docx, pdf, xlsx, json, html, xml, db
 * :muscle: CVEs scan
 * :house: Can send results files to Bucket S3
-* :cyclone: Send results file by SSH
-* :fire: Get related emails
+* :cyclone: Cab send results file by SSH
+* :fire: Notify by Telegram and e-mail
 * :dragon_face: Chase related emails by adding them to the ongoing search
 * :crown: Supports premium lookup services for advanced users
 * :factory: Custom query premium APIs. Supports username, hash, ip, domain and password and more
