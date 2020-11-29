@@ -2,9 +2,8 @@
   <a href="https://github.com/loseys/Oblivion//"><img src="https://i.imgur.com/wL3Pznz.png" width="800" title="Oblivion"></a>
 </h1>
 
-[![platforms](https://img.shields.io/badge/platforms-Windows%20%7C%20Linux%20%7C%20OSX-success.svg)](https://github.com/loseys/Oblivion/)
+[![platforms](https://img.shields.io/badge/platform-windows%20%7C%20linux-blue)](https://github.com/loseys/Oblivion/)
 [![version](https://img.shields.io/badge/version-v1.0.0-blue)](https://github.com/loseys/Oblivion/)
-
 [![license](https://img.shields.io/badge/license-BSD-blue)](https://github.com/loseys/Oblivion/)
 [![Python 3.8.6](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-386/)
 
