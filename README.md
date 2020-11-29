@@ -12,12 +12,13 @@
 
 ## Features
 
-* :mag_right: Email pattern matching (reg exp), useful for reading from other tool outputs
-* :earth_africa: Pass URLs to directly find and target emails in pages
-* :dizzy: Loosey patterns for local searchs ("john.smith", "evilcorp")
-* :package: Painless install. Available through `pip`, only requires `requests`
-* :white_check_mark: Bulk file-reading for targeting
-* :memo: Output to CSV file
+* :mag_right: Can be used with no cost
+* :mag_right: Checks your password in word list
+* :earth_africa: Works with Google Dorks
+* :dizzy: Checks the last pastes in Pastebin
+* :package: Works with powerful APIs
+* :white_check_mark: Output to 
+* :memo: Output to txt, docx, pdf, xlsx, json, html, xml, db
 * :muscle: Compatible with the "Breach Compilation" torrent scripts
 * :house: Search cleartext and compressed .gz files locally using multiprocessing
   * :cyclone: Compatible with "Collection#1"
