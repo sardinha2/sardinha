@@ -19,6 +19,7 @@
 * :package: Works with powerful APIs
 * :white_check_mark: Output to 
 * :memo: Output to txt, docx, pdf, xlsx, json, html, xml, db
+* :memo: Output to encrypted files
 * :muscle: CVEs scan
 * :house: Can send result files to Bucket S3
 * :cyclone: Upload the result files to Google Drive
