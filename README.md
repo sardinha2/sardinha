@@ -24,7 +24,8 @@
 * :cyclone: Cab send result file by SSH (work with EC2)
 * :fire: Notify by Telegram and e-mail
 * :eyes: Includes option to hide passwords for demonstrations
-
+* :fire: Works with scheduled scans
+* :fire: Possible to execute loop scans
 ---
 
 ### :package: `pip3 install h8mail`
