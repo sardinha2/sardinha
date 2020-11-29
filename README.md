@@ -12,24 +12,18 @@
 
 ## :cyclone: Oblivion Features
 
-* :mag_right: Can be used with no cost
-* :mag_right: Checks your password in Word List
-* :earth_africa: Works too with Google Dorks
-* :dizzy: Checks the last pastes in Pastebin
+* :muscle: CVEs scan
 * :package: Works with powerful APIs
+* :earth_africa: Works too with Google Dorks
+* :mag_right: Checks your password in Word List
+* :dizzy: Checks the last pastes in Pastebin
 * :memo: Output to txt, docx, pdf, xlsx, json, html, xml, db
 * :white_check_mark: Output to encrypted files
-* :muscle: CVEs scan
 * :house: Can send result files to multiples Bucket S3
 * :cyclone: Upload the result files to Google Drive
 * :cyclone: Cab send result file by SSH (work with EC2)
 * :fire: Notify by Telegram and e-mail
-* :dragon_face: Chase related emails by adding them to the ongoing search
-* :crown: Supports premium lookup services for advanced users
-* :factory: Custom query premium APIs. Supports username, hash, ip, domain and password and more
-* :books: Regroup breach results for all targets and methods
 * :eyes: Includes option to hide passwords for demonstrations
-* :rainbow: Delicious colors
 
 ---
 
