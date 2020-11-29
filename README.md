@@ -2,11 +2,11 @@
   <a href="https://github.com/khast3x/h8mail/releases/"><img src="https://i.imgur.com/KDTu69D.png" width="500" title="Oblivion"></a>
 </h1>
 
-[![platforms](https://img.shields.io/badge/platforms-Windows%20%7C%20Linux-success.svg)](https://pypi.org/project/h8mail/) [![PyPI version](https://badge.fury.io/py/h8mail.svg)]
+[![platforms](https://img.shields.io/badge/platforms-Windows%20%7C%20Linux-success.svg)](https://pypi.org/project/h8mail/) [![PyPI version](https://badge.fury.io/py/h8mail.svg)](https://badge.fury.io/py/h8mail)
 [![Downloads](https://pepy.tech/badge/h8mail)](https://pepy.tech/project/h8mail)    [![travis](https://img.shields.io/travis/khast3x/h8mail.svg)](https://travis-ci.org/khast3x/h8mail)   
 [![MicroBadger Size (tag)](https://img.shields.io/microbadger/image-size/kh4st3x00/h8mail.svg?color=ok)](https://hub.docker.com/r/kh4st3x00/h8mail/builds)  
 **h8mail** is an email OSINT and breach hunting tool using [different breach and reconnaissance services](#apis), or local breaches such as Troy Hunt's "Collection1" and the infamous "Breach Compilation" torrent.  
-**h8mail** is an email OSINT and breach hunting tool using [different breach and reconnaissance services](#apis), or local breaches such as Troy Hunt's "Collection1" and the infamous "Breach Compilation" torrent.   
+**h8mail** is an email OSINT and breach hunting tool using [different breach and reconnaissance services](#apis), or local breaches such as Troy Hunt's "Collection1" and the infamous "Breach Compilation" torrent.  
 
 ----
 
