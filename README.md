@@ -11,13 +11,9 @@
 
 
 <h1 align="left">
-  <a href="https://github.com/loseys/Oblivion//"><img src="https://i.imgur.com/9SuF29i.png" width="500" title="Oblivion"></a>   <a href="https://github.com/loseys/Oblivion//"><img src="https://i.imgur.com/uR0yHXj.png" width="500" title="Oblivion"></a>
+  <a href="https://i.imgur.com/9SuF29i.png"><img src="https://i.imgur.com/9SuF29i.png" width="500" title="Oblivion"></a>   <a href="https://i.imgur.com/uR0yHXj.png"><img src="https://i.imgur.com/uR0yHXj.png" width="500" title="Oblivion"></a>
 </h1>
 
-
-<h1 align="left">
-  <a href="https://github.com/loseys/Oblivion//"><img src="https://i.imgur.com/uR0yHXj.png" width="500" title="Oblivion"></a>
-</h1>
 
 ## :cyclone: Oblivion Features
 
