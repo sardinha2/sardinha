@@ -10,33 +10,7 @@
 **Oblivion** is a tool focused in real time monitoring of new data leaks, notifying if the credentials of the user has been leak out. It's possible too verify if any credential of user has been leak out before.
 
 
-----
-
-
-<h1 align="center">
-  <a href="https://github.com/khast3x/h8mail/wiki?ref=readmebutton"><img src="https://i.postimg.cc/htg6xGmm/button.png" width="420" title="To the Wiki!"></a>
-</h1>
-
-
-
-----
-
-
-## :book: Table of Content
-
-- [Table of Content](#book-Table-of-Content)
-- [Features](#tangerine-Features)
-    - [APIs](#APIs)
-- [Usage](#tangerine-Usage)
-- [Usage examples](#tangerine-Usage-examples)
-- [Thanks & Credits](#tangerine-Thanks--Credits)
-- [Related open source projects](#tangerine-Related-open-source-projects)
-
-
-----
-
-
-##  :tangerine: Features
+## Features
 
 * :mag_right: Email pattern matching (reg exp), useful for reading from other tool outputs
 * :earth_africa: Pass URLs to directly find and target emails in pages
