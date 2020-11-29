@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/loseys/Oblivion//"><img src="https://i.imgur.com/vTdLW5D.png" width="800" title="Oblivion"></a>
+  <a href="https://github.com/loseys/Oblivion//"><img src="https://i.imgur.com/j1GdgLv.png" width="800" title="Oblivion"></a>
 </h1>
 
 [![platforms](https://img.shields.io/badge/platform-windows%20%7C%20linux-blue)](https://github.com/loseys/Oblivion/)
