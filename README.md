@@ -14,6 +14,11 @@
   <a href="https://github.com/loseys/Oblivion//"><img src="https://i.imgur.com/9SuF29i.png" width="800" title="Oblivion"></a>
 </h1>
 
+
+<h1 align="left">
+  <a href="https://github.com/loseys/Oblivion//"><img src="https://i.imgur.com/uR0yHXj.png" width="800" title="Oblivion"></a>
+</h1>
+
 ## :cyclone: Oblivion Features
 
 * 💪 CVEs scan
