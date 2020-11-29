@@ -3,7 +3,7 @@
 </h1>
 
 [![platforms](https://img.shields.io/badge/platforms-Windows%20%7C%20Linux%20%7C%20OSX-success.svg)](https://pypi.org/project/h8mail/) [![PyPI version](https://badge.fury.io/py/h8mail.svg)](https://badge.fury.io/py/h8mail)
-[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/h8mail.svg)](https://pypi.org/project/h8mail/)   
+
 **h8mail** is an email OSINT and breach hunting tool using [different breach and reconnaissance services](#apis), or local breaches such as Troy Hunt's "Collection1" and the infamous "Breach Compilation" torrent.  
 
 
