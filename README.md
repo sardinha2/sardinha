@@ -32,11 +32,11 @@
 
 | Service | Functions | Status |
 |-|-|-|
-| [HaveIBeenPwned(v3)](https://haveibeenpwned.com/) | Number of email breaches | :white_check_mark: :key: |
-| [Scylla.sh](https://scylla.sh/) - Service (free) | Cleartext passwords, hashs and salts, usernames, IPs, domain | :white_check_mark: |
-| [IntelX.io](https://intelx.io/signup) - Service (free trial) | Cleartext passwords, hashs and salts, usernames, IPs, domain, Bitcoin Wallets, IBAN | :white_check_mark: :key: |
+| [HaveIBeenPwned(v3)](https://haveibeenpwned.com/) | Number of email breaches | paid |
+| [Scylla.sh](https://scylla.sh/) - Service (free) | Cleartext passwords, hashs and salts, usernames, IPs, domain | free |
+| [IntelX.io](https://intelx.io/signup) - Service (paid) | Cleartext passwords, hashs and salts, usernames, IPs, domain, Bitcoin Wallets, IBAN | paid |
+| [Circl.lu](https://cve.circl.lu/api/) - Service (free) | Cleartext passwords, hashs and salts, usernames, IPs, domain, Bitcoin Wallets, IBAN | paid |
 
-*:key: - API key required*  
 
 
 
