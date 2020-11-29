@@ -17,11 +17,10 @@
 * :earth_africa: Works too with Google Dorks
 * :dizzy: Checks the last pastes in Pastebin
 * :package: Works with powerful APIs
-* :white_check_mark: Output to 
 * :memo: Output to txt, docx, pdf, xlsx, json, html, xml, db
-* :memo: Output to encrypted files
+* :white_check_mark: Output to encrypted files
 * :muscle: CVEs scan
-* :house: Can send result files to Bucket S3
+* :house: Can send result files to multiples Bucket S3
 * :cyclone: Upload the result files to Google Drive
 * :cyclone: Cab send result file by SSH (work with EC2)
 * :fire: Notify by Telegram and e-mail
