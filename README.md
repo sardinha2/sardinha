@@ -32,7 +32,7 @@
 
 | Service | Functions | Status |
 |-|-|-|
-| [HaveIBeenPwned(v3)](https://haveibeenpwned.com/) | Number of email breaches | paid |
+| [HaveIBeenPwned](https://haveibeenpwned.com/) | E-mails and passwords | paid |
 | [Scylla.sh](https://scylla.sh/)| Cleartext passwords, hashs and salts, usernames, IPs, domain | free |
 | [IntelX.io](https://intelx.io/signup)| Cleartext passwords, hashs and salts, usernames, IPs, domain, Bitcoin Wallets, IBAN | paid |
 | [Circl.lu](https://cve.circl.lu/api/)| Checks for new CVEs| free |
