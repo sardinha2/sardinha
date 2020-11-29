@@ -33,9 +33,9 @@
 | Service | Functions | Status |
 |-|-|-|
 | [HaveIBeenPwned(v3)](https://haveibeenpwned.com/) | Number of email breaches | paid |
-| [Scylla.sh](https://scylla.sh/) - Service (free) | Cleartext passwords, hashs and salts, usernames, IPs, domain | free |
-| [IntelX.io](https://intelx.io/signup) - Service (paid) | Cleartext passwords, hashs and salts, usernames, IPs, domain, Bitcoin Wallets, IBAN | paid |
-| [Circl.lu](https://cve.circl.lu/api/) - Service (free) | Cleartext passwords, hashs and salts, usernames, IPs, domain, Bitcoin Wallets, IBAN | paid |
+| [Scylla.sh](https://scylla.sh/)| Cleartext passwords, hashs and salts, usernames, IPs, domain | free |
+| [IntelX.io](https://intelx.io/signup)| Cleartext passwords, hashs and salts, usernames, IPs, domain, Bitcoin Wallets, IBAN | paid |
+| [Circl.lu](https://cve.circl.lu/api/)| Checks for new CVEs| free |
 
 
 
