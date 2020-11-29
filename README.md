@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/khast3x/h8mail/releases/"><img src="https://i.imgur.com/KDTu69D.png" width="500" title="Oblivion"></a>
+  <a href="https://github.com/khast3x/h8mail/releases/"><img src="https://i.imgur.com/KDTu69D.png" width="800" title="Oblivion"></a>
 </h1>
 
 [![platforms](https://img.shields.io/badge/platforms-Windows%20%7C%20Linux%20%7C%20OSX-success.svg)](https://badge.fury.io/py/h8mail)
