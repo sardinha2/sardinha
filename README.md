@@ -10,9 +10,7 @@
 **Oblivion** is a tool focused in real time monitoring of new data leaks, notifying if the credentials of the user has been leak out. It's possible too verify if any credential of user has been leak out before.
 
 
-<h1 align="center">
-  <a href="https://github.com/loseys/Oblivion//"><img src="https://i.imgur.com/JQCpFBL.png" width="800" title="Oblivion"></a>
-</h1>
+
 
 
 ## :cyclone: Oblivion Features
