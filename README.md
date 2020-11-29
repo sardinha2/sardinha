@@ -20,8 +20,9 @@
 * :white_check_mark: Output to 
 * :memo: Output to txt, docx, pdf, xlsx, json, html, xml, db
 * :muscle: CVEs scan
-* :house: Can send results files to Bucket S3
-* :cyclone: Cab send results file by SSH
+* :house: Can send result files to Bucket S3
+* :cyclone: Upload the result files to Google Drive
+* :cyclone: Cab send result file by SSH (work with EC2)
 * :fire: Notify by Telegram and e-mail
 * :dragon_face: Chase related emails by adding them to the ongoing search
 * :crown: Supports premium lookup services for advanced users
