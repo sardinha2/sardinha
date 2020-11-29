@@ -4,8 +4,8 @@
 
 [![platforms](https://img.shields.io/badge/platform-windows%20%7C%20linux-blue)](https://github.com/loseys/Oblivion/)
 [![version](https://img.shields.io/badge/version-v1.0.0-blue)](https://github.com/loseys/Oblivion/)
-[![license](https://img.shields.io/badge/license-BSD-blue)](https://github.com/loseys/Oblivion/)
 [![Python 3.8.6](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-386/)
+[![license](https://img.shields.io/badge/license-BSD-blue)](https://github.com/loseys/Oblivion/)
 
 **h8mail** is an email OSINT and breach hunting tool using [different breach and reconnaissance services](#apis), or local breaches such as Troy Hunt's "Collection1" and the infamous "Breach Compilation" torrent.  
 
