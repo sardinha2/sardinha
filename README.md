@@ -7,11 +7,21 @@
 [![Python 3.8.6](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-386/)
 [![license](https://img.shields.io/badge/license-BSD-blue)](https://github.com/loseys/Oblivion/)
 
-**Oblivion** is a tool focused in real time monitoring of new data leaks, notifying if the credentials of the user has been leak out. It's possible too verify if any credential of user has been leak out before.
+**Oblivion** is a tool focused in real time monitoring of new data leaks, notifying if the credentials of the user has been leak out. It's possible too verify if any credential of user has been leak out before. The Oblivion have two modes: 
+
+- Oblivion Client: is a graphical mode
+- Oblivion Server: is a server mode with API functionalities.
+
+NOTE: The two modes are independents.
 
 
-<h1 align="left">
-  <a href="https://i.imgur.com/9SuF29i.png"><img src="https://i.imgur.com/9SuF29i.png" width="450" title="Oblivion"></a><a href="https://i.imgur.com/uR0yHXj.png"><img src="https://i.imgur.com/uR0yHXj.png" width="450" title="Oblivion"></a>
+###Oblivion Client
+<h1 align="center">
+  <a href="https://i.imgur.com/9SuF29i.png"><img src="https://i.imgur.com/9SuF29i.png" width="450" title="Oblivion"></a>
+</h1>
+
+<h1 align="center">
+  <a href="https://i.imgur.com/uR0yHXj.png"><img src="https://i.imgur.com/uR0yHXj.png" width="450" title="Oblivion"></a>
 </h1>
 
 
