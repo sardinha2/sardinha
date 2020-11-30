@@ -17,11 +17,11 @@
 
 <h1 align="center">
   <p style="text-align:center;">Oblivion Client</p>
-  <a href="https://i.imgur.com/9SuF29i.png"><img src="https://i.imgur.com/9SuF29i.png" width="600" title="Oblivion"></a>
+  <a href="https://i.imgur.com/9SuF29i.png"><img src="https://i.imgur.com/uR0yHXj.png" width="600" title="Oblivion"></a>
 </h1>
 
 <h1 align="center">
-  <a href="https://i.imgur.com/uR0yHXj.png"><img src="https://i.imgur.com/uR0yHXj.png" width="600" title="Oblivion"></a>
+  <a href="https://i.imgur.com/uR0yHXj.png"><img src="https://i.imgur.com/9SuF29i.png" width="600" title="Oblivion"></a>
 </h1>
 
 
